@@ -168,7 +168,7 @@ A web-based CRUD application that performs Create, Read, Update, and Delete oper
 
 ### Tech Stack
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS`.
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS`
 **Repository:** [Student-Spring Boot CRUD](https://github.com/swyam-1/student-crud-spring-boot)
 
 ---
