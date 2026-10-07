@@ -126,6 +126,7 @@ A machine learning application that predicts whether a customer is likely to chu
 🔗 **Repository:** [Customer Churn Prediction](https://github.com/Swyam-1/customer_churn_prediction)
 
 🌐 **Live Demo:** [Open Application](https://customerchurnprediction-iytfmslqszrjbmehtunl4y.streamlit.app/)
+
 ---
 ## 🏦 Bank Transaction Management System
 
@@ -148,6 +149,7 @@ A Java-based banking application that manages customer accounts and performs sec
 `Java` `JDBC` `MySQL` `SQL`
 
 🔗 **Repository:** [Bank Transaction Management System](https://github.com/swyam-1/jdbc-bank-transaction)
+
 ---
 ## ☕ Spring Boot CRUD Application
 
@@ -166,9 +168,9 @@ A web-based CRUD application that performs Create, Read, Update, and Delete oper
 
 ### Tech Stack
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS`
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS`.
+**Repository:** [Student-Spring Boot CRUD](https://github.com/swyam-1/student-crud-spring-boot)
 
-🔗 **Repository:** [Student-Spring Boot CRUD](https://github.com/swyam-1/student-crud-spring-boot)
 ---
 
 ## ☕Employee-CRUD-Servlet
