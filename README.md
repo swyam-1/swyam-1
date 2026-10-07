@@ -100,7 +100,7 @@ I am a software development enthusiast focused on **Java, Spring Boot, SQL, back
 
 `Java` `Spring Boot` `JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** [WedMate](https://github.com/Swyam-1)
+🔗 **Repository:** [WedMate](https://github.com/swyam-1/WEADMATE-Wedding-management-Planning-)
 
 ---
 
@@ -126,31 +126,52 @@ A machine learning application that predicts whether a customer is likely to chu
 🔗 **Repository:** [Customer Churn Prediction](https://github.com/Swyam-1/customer_churn_prediction)
 
 🌐 **Live Demo:** [Open Application](https://customerchurnprediction-iytfmslqszrjbmehtunl4y.streamlit.app/)
-
 ---
+## 🏦 Bank Transaction Management System
 
-## 📈 Walmart Sales Dashboard
+A Java-based banking application that manages customer accounts and performs secure banking transactions using JDBC and MySQL.
 
-An interactive data analytics dashboard created to explore Walmart sales data and identify useful business insights.
+### What I Worked On
 
-### Analysis Includes
-
-* Sales trends
-* Monthly sales comparison
-* Product/category analysis
-* Correlation analysis
-* Interactive visualizations
-* Business insights
+- Account creation and management
+- Deposit and withdrawal operations
+- Balance checking
+- Fund transfer between accounts
+- Transaction management
+- JDBC database connectivity
+- SQL queries and database operations
+- Transaction handling and validation
+- Exception handling
 
 ### Tech Stack
 
-`R` `Shiny` `shinydashboard` `Plotly` `ggplot2` `dplyr` `tidyverse`
+`Java` `JDBC` `MySQL` `SQL`
 
-🔗 **Repository:** Add your Walmart Dashboard repository link here.
+🔗 **Repository:** [Bank Transaction Management System](https://github.com/swyam-1/jdbc-bank-transaction)
+---
+## ☕ Spring Boot CRUD Application
 
+A web-based CRUD application that performs Create, Read, Update, and Delete operations using Spring Boot and MySQL.
+
+### What I Worked On
+
+- Create, Read, Update and Delete operations
+- Spring Boot MVC architecture
+- Spring Data JPA integration
+- Hibernate ORM
+- MySQL database integration
+- Thymeleaf-based web pages
+- Form handling and validation
+- Service and Repository layer implementation
+
+### Tech Stack
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Thymeleaf` `HTML` `CSS`
+
+🔗 **Repository:** [Student-Spring Boot CRUD](https://github.com/swyam-1/student-crud-spring-boot)
 ---
 
-## ☕ Servlet CRUD Application
+## ☕Employee-CRUD-Servlet
 
 A Java web application demonstrating **Create, Read, Update and Delete** operations using Servlets, JDBC and MySQL.
 
@@ -167,7 +188,7 @@ A Java web application demonstrating **Create, Read, Update and Delete** operati
 
 `Java` `Servlets` `JDBC` `MySQL` `HTML` `CSS`
 
-🔗 **Repository:** Add your Servlet CRUD repository link here.
+🔗 **Repository:** [Employee-CRUD-Servlet](https://github.com/swyam-1/Employee-CRUD-Servlet).
 
 ---
 
